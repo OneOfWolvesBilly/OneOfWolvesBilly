@@ -11,7 +11,9 @@ I build pragmatic, maintainable systems and ship real products. Current long-ter
 
 > If you like my work and want to support ongoing open‑source development, consider sponsoring below.
 
-🎉 Support Channels: Your Contribution Accelerates HarmoniaSuite Q4 2025 Launch! [💖 Support HarmoniaSuite (PayPal.me)](https://paypal.me/HarmoniaSuite)   [☕ Buy Me a Coffee](https://buymeacoffee.com/harmonia.suite.project)
+🎉 **Support HarmoniaSuite Development**  
+Your contribution helps accelerate the **HarmoniaSuite Q4 2025 launch milestone**.  
+[💖 Support via PayPal](https://paypal.me/HarmoniaSuite) [☕ Buy Me a Coffee](https://buymeacoffee.com/harmonia.suite.project)
 
 ---
 
@@ -19,6 +21,8 @@ I build pragmatic, maintainable systems and ship real products. Current long-ter
 | Project | Description | Tech |
 |---|---|---|
 | [**MinimapButtonHub**](https://github.com/OneOfWolvesBilly/MinimapButtonHub) | **Stable WoW AddOn for managing and organizing minimap buttons. Currently being updated/tested.** | Lua / WoW API |
+
+> Available on [CurseForge](https://www.curseforge.com/wow/addons/minimapbuttonhub)
 
 > Note: Other previously mentioned items (e.g., **GoldLedgerHub**, **Harmonia Audio**) are **on hold** and not publicly available yet. They will return when HarmoniaSuite core milestones are reached.
 
